@@ -1,25 +1,26 @@
 # Irc-Advertising-Bot
 
-A bot that automatic advertise on channels
+IRC ADVERTISING bot that automatic advertise on channels ((SPAMMS!!))
 
-fully configurable and customizable 
+Fully configurable and customizable 
 
-your not allowed to claim the project as your own but your allowed to edit it using fokrs not clones and giving credits of course
+NOTE : You are not allowed to claim the project as your own BUT your allowed to edit it using forks not clones and you must give me  
 
-the project is in development
+I am not responsible for any persson abusing this bot powers
 
-i am not responsible for any persson abusing this bot powers
-
-everything is configurable in config.php
+Everything is configurable in config.php
 
 the bot suppport windows x86 and x64
 
-if you have any problem with the bot please report in the issue tracker and i will help you and do my best.
+If you have any problem with the bot please report in the issue tracker and I will be in contact with you shortly.
 
-thx for wildphp for providing the bot base
+Special Thanks for Wildphp for providing the bot base.
 
-thx for pocketkiller for giving me tips and helping me
+Special Thanks for PocketKiller for giving me tips and helping me
 
-credits for auto rejoin when kicked script for pocketkiller
+Credits for auto rejoin when kicked script for PocketKiller
 
-the bot wont rejoin when kicked while the spam command is running
+Note : The bot wont rejoin when kicked while the spam command is running.
+
+Best Regards,
+Bot Creations Team
