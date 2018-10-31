@@ -20,5 +20,5 @@ Credits for auto rejoin when kicked script for PocketKiller.
 
 Note : The bot won't rejoin when kicked while the spam command is running.
 
-Happy Spamming,
+Happy Spamming,</br>
 Bot Creations Team
